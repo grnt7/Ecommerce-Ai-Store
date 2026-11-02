@@ -100,29 +100,7 @@ And store owners get:
 
 ---
 
-## 🚀 Before We Dive In - Join the PAPAFAM!
 
-**Want to build apps like this from scratch?**
-
-Join thousands of developers learning to build production-ready applications with the latest technologies.
-
-### PAPAFAM Community Benefits
-
-- 🎓 Step-by-step video tutorials
-- 💬 Private Discord community
-- 🔥 Weekly coding challenges
-- 📁 Access to all project source code
-- 🏆 Certificate of completion
-
-### Real Results
-
-> "I landed my first developer job after completing the PAPAFAM course!" — Community Member
-
-<div align="center">
-
-### [🎯 Join the PAPAFAM Course →](https://www.papareact.com/course)
-
-</div>
 
 ---
 
@@ -702,10 +680,4 @@ See [LICENSE.md](./LICENSE.md) for full details.
 
 ---
 
-<div align="center">
 
-**Built with ❤️ by [Sonny Sangha](https://www.papareact.com/) & the PAPAFAM Community**
-
-[YouTube](https://www.youtube.com/@SonnySangha) · [Twitter](https://twitter.com/sonnysangha) · [Course](https://www.papareact.com/course)
-
-</div>
