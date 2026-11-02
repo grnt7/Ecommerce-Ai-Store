@@ -1,4 +1,4 @@
-import { PackageIcon } from "@sanity/icons";
+import { PackageIcon } from "@sanity/icons/Package";
 import { defineField, defineType } from "sanity";
 import { MATERIALS_SANITY_LIST, COLORS_SANITY_LIST } from "@/lib/constants/filters";
 

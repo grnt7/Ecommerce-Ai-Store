@@ -1,4 +1,4 @@
-import { BasketIcon } from "@sanity/icons";
+import { BasketIcon } from "@sanity/icons/Basket";
 import { defineArrayMember, defineField, defineType } from "sanity";
 import { ORDER_STATUS_SANITY_LIST } from "@/lib/constants/orderStatus";
 
